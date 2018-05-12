@@ -1,0 +1,29 @@
+_repo: A-Boy-Scout-s-Courage_40015
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40015-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Griggs, Edward Howard
+    birthdate: 1868
+    deathdate: 1951
+    gutenberg_agent_id: '3710'
+    url: http://www.gutenberg.org/2009/agents/3710
+description: ''
+gutenberg_issued: '2012-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- England -- Juvenile fiction'
+- !lcsh 'Spy stories'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Courage -- Juvenile fiction'
+title: A Boy Scout's Courage
+url: http://www.gutenberg.org/ebooks/40015
