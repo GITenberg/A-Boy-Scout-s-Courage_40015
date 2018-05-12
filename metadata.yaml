@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '3710'
     url: http://www.gutenberg.org/2009/agents/3710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40015#A-Boy-Scout-s-Courage
 gutenberg_issued: '2012-06-17'
 gutenberg_type: Text
 identifiers:
